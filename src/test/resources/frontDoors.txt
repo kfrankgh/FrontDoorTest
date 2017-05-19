@@ -1,0 +1,26 @@
+UlrichsWeb	http://ulrichsweb.serialssolutions.com/login/	ulrichsweb.com(TM) -- The Global Source for Periodicals
+EJPLegacy	http://ps6hv2gr9u.search.serialssolutions.com/?L=ps6hv2gr9u&	Full Text Electronic Journal List
+EJP2	http://kg3wv4wl3q.search.serialssolutions.com/ejp/?libHash=KG3WV4WL3Q&#/?language=en-US	EJP2 - ProQuest
+360Link	http://kg3wv4wl3q.search.serialssolutions.com/?L=KG3WV4WL3Q&issn=1941-2711&newui=1clickoff	360 Link
+ClientCenter	https:\\clientcenter.serialssolutions.com\CC\Login\Default.aspx	Serials Solutions | Client Center
+SpringShareApi	https://clientcenter.serialssolutions.com/SerialsSolutionsWebService/SerialsSolutions360WebService.asmx	SerialsSolutions360WebService Web Service
+Intota	https://intotaa.proquest.com/login	Intota
+IntotaApi	https://iaauth.serialssolutions.com/iapi/docs/	Intota API
+IntotaAssessment	http://intota.proquest.com/Home/Index	Intota Assessment
+UlrichsXmlDataService	http://ulrichsds.serialssolutions.com/UlrichsWebService.asmx	UlrichsWebService Web Service
+UlrichsXmlDataServiceAdminTool	http://ulrichsdsadmin.sea.sersol.lib/login.aspx	Ulrich's XML Data Service Administration Tool - Login
+Usas	http://www.ulrichsweb.com/ulrichsweb/analysis/default.asp	Ulrichs Serials Analysis System (USAS)
+KbTools	http://kbtools001.sea.sersol.lib:8080/jtools/	Serials Solutions KBTools
+Doddb001	http://doddb001.sea.sersol.lib:8080/DOD/login.jsp	Serials Solutions Data on Demand
+Dod001	http://dod001.sea.sersol.lib:8080/DOD/login.jsp	Serials Solutions Data on Demand
+Dod002	http://dod002.sea.sersol.lib:8080/DOD/login.jsp	Serials Solutions Data on Demand
+Dod003	http://dod003.sea.sersol.lib:8080/DOD/login.jsp	Serials Solutions Data on Demand
+Dod004	http://dod004.sea.sersol.lib:8080/DOD/login.jsp	Serials Solutions Data on Demand
+Dod005	http://dod005.sea.sersol.lib:8080/DOD/login.jsp	Serials Solutions Data on Demand
+Dod006	http://dod006.sea.sersol.lib:8080/DOD/login.jsp	Serials Solutions Data on Demand
+Dod007	http://dod007.sea.sersol.lib:8080/DOD/login.jsp	Serials Solutions Data on Demand
+Dod008	http://dod008.sea.sersol.lib:8080/DOD/login.jsp	Serials Solutions Data on Demand
+MarcCust	http://marccust001.sea.sersol.lib:8080/DOD/login.jsp	Serials Solutions Data on Demand
+Page2	http://www2.serialssolutions.com/CC/login.asp	Serials Solutions - Client Center - Log In
+CcAdmin	http://ccadmin/Login.aspx	Login
+AcsProxy	http://www.provider.com.vz5sr5md2r.useaccesscontrol.com/	Serials Solutions Authentication Service
